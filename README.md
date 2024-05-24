@@ -12,6 +12,7 @@ WED Đề xuất phim anime cho người xem sử dụng PYTHON - FAST API
 2. Cơ sở dữ liệu
 
   -craw dữ liệu từ myanimename.list
+  
 3. Module đọc dữ liệu
 
 - thự viện numpy, keras v.v.... 
